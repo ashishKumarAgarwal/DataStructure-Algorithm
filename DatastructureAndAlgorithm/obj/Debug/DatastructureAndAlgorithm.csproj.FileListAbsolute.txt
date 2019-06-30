@@ -1,0 +1,7 @@
+C:\Users\agaryash\Desktop\Personal\Practice\DatastructureAndAlgorithm\DatastructureAndAlgorithm\bin\Debug\DatastructureAndAlgorithm.exe.config
+C:\Users\agaryash\Desktop\Personal\Practice\DatastructureAndAlgorithm\DatastructureAndAlgorithm\bin\Debug\DatastructureAndAlgorithm.exe
+C:\Users\agaryash\Desktop\Personal\Practice\DatastructureAndAlgorithm\DatastructureAndAlgorithm\bin\Debug\DatastructureAndAlgorithm.pdb
+C:\Users\agaryash\Desktop\Personal\Practice\DatastructureAndAlgorithm\DatastructureAndAlgorithm\obj\Debug\DatastructureAndAlgorithm.csprojAssemblyReference.cache
+C:\Users\agaryash\Desktop\Personal\Practice\DatastructureAndAlgorithm\DatastructureAndAlgorithm\obj\Debug\DatastructureAndAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\agaryash\Desktop\Personal\Practice\DatastructureAndAlgorithm\DatastructureAndAlgorithm\obj\Debug\DatastructureAndAlgorithm.exe
+C:\Users\agaryash\Desktop\Personal\Practice\DatastructureAndAlgorithm\DatastructureAndAlgorithm\obj\Debug\DatastructureAndAlgorithm.pdb
